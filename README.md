@@ -4,9 +4,7 @@
 **Joanaaoliveira/Joanaaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Vale S.A. with Business Intelligence
-- 🌱 I’m currently learning Python, Data Science and PowerBI.
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/her
+- 💼 I’m currently working on Vale S.A. with Business Intelligence
+- 📚 I’m currently learning Python, Data Science and PowerBI;
+- 😄 Pronouns: She/her;
+- 🎓I am graduated in Administration by Universidade Federal de Juiz de Fora and I'm currently doing Information Technology Management by PUCMinas.
