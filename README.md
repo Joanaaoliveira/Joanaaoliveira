@@ -4,6 +4,8 @@
 **Joanaaoliveira/Joanaaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+Algumas informações minhas:
+
 - 💼 Atualmente faço estágio na Vale S.A. na parte de Business Intelligence da área de Suprimentos;
 - 📚 Estou aprendendo alguns temas como:Python, Data Science e PowerBI;
 - 😄 Pronome utilizado: Ela/dela;
