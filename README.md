@@ -6,7 +6,8 @@
 
 Algumas informações
 
-- 💼 Atualmente faço estágio na Vale S.A. na parte de Business Intelligence da área de Suprimentos;
-- 📚 Estou aprendendo alguns temas como: Python, Data Science e PowerBI;
+- 💼 Fiz estágio na Vale S.A. na parte de Business Intelligence da área de Gestão de Materiais;
+- ✔️ Durante minha trajetória consegui contribuir em projetos utilizando o PowerApps, PowerAutomate e PowerBI desde a busca da necessidade até a implementação do projeto;
+- 📚 Estou sempre em aprendizado de alguns temas como: Python, Data Science e PowerBI e recentemente embarquei numa jornada de front-end;
 - 😄 Pronome utilizado: Ela/dela;
-- 🎓Sou formada em Administração pela UFJF e curso Gestão da Tecnologia da Informação na PUCMinas.
+- 🎓 Sou formada em Gestão da Tecnologia da Informação pela PUCMinas e também em Administração pela UFJF.
