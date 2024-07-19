@@ -10,4 +10,4 @@ Algumas informações
 - ✔️ Durante minha trajetória consegui contribuir em projetos utilizando o PowerApps, PowerAutomate e PowerBI desde a busca da necessidade até a implementação do projeto;
 - 📚 Estou em constante aprendizado de alguns temas como: Python, Data Science e PowerBI e recentemente embarquei numa jornada de Data Analitics com um Bootcamp de Data Analytics da WoMakersCode;
 - 😄 Pronome utilizado: Ela/dela;
-- 🌈 Acredito que a diversidade e inclusão sejam fatores importantes para uma pluraridade nas equipes trazendo vivências únicas.
+- 🌈 Acredito que a diversidade e inclusão sejam fatores importantes para uma pluraridade nas equipes trazendo vivências e contribuições relevantes.
