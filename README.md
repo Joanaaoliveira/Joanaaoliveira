@@ -1,4 +1,4 @@
-<h1 align="center">  Seja bem vinde! 👋 </h1>
+<h1 align="center">  Olá Pessoa! 👋 </h1>
 
 <!--
 **Joanaaoliveira/Joanaaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
